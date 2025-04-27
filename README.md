@@ -10,7 +10,7 @@ Perfect for automating browser tasks with full evidence capture!
 
 Installation Steps:
  i. Clone the project.
- git clone https://github.com/your-username/browser_automation_ai.git
+ git clone https://github.com/JP-Jha/browser_automation_ai.git
  cd browser_automation_ai
 
 ii. Create a virtual environment and activate it.
