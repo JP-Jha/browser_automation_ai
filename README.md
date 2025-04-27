@@ -36,12 +36,14 @@ URL: POST http://127.0.0.1:8000/gmail-login
 
 #Examples:
 Querry for web search:
+
 {
   "url": "https://www.duckduckgo.com",
   "query": "Best tourist places in India"
 }
 
 Querry for flight search:
+
 {
   "source": "Delhi",
   "destination": "Patna",
@@ -52,6 +54,7 @@ Querry for flight search:
 }
 
 Querry for gmail search:
+
 {
   "email": "your-email@gmail.com",
   "password": "your-password"
